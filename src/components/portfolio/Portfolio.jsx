@@ -97,7 +97,7 @@ function Portfolio() {
               <h3>{text}</h3>
               <div className="portfolio__tem-cta">
                 {/* <a href={github} className='btn' target="_blank">Github</a> */}
-                <a href={demo} className='btn btn-primary' target="_blank">{nme}</a>
+                <a href={demo} className='btn btn-primary' target="_blank" rel="noopener noreferrer">{nme}</a>
               </div>
             </article>
 
