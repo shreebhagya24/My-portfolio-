@@ -4,6 +4,7 @@ import Avt1 from '../../assets/hitendra.jpg'
 import Avt2 from '../../assets/moverstrip.png'
 import Avt3 from '../../assets/aakashdeep.png'
 import Avt4 from '../../assets/vinod.jpg'
+import Avt5 from '../../assets/logo1.jpg'
 
 
 
@@ -39,6 +40,12 @@ const data = [
     avatar: Avt4,
     name: 'Vinod Katiriya ',
     review: 'Working with Bhagya Shree was very good experience.'
+  },
+
+  {
+    avatar: Avt5,
+    name: 'Plus Skills Company',
+    review: 'Bhagya Shree is a talented, enthusiastic and dedicated. She is also brilliant & full of ideas for work. '
   }
 
 
