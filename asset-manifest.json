@@ -1,7 +1,7 @@
 {
   "main.css": "/My-portfolio-/static/css/main.6315dec4.chunk.css",
-  "main.js": "/My-portfolio-/static/js/main.40ccb45f.chunk.js",
-  "main.js.map": "/My-portfolio-/static/js/main.40ccb45f.chunk.js.map",
+  "main.js": "/My-portfolio-/static/js/main.5ec95b01.chunk.js",
+  "main.js.map": "/My-portfolio-/static/js/main.5ec95b01.chunk.js.map",
   "static/css/1.fa26cf23.chunk.css": "/My-portfolio-/static/css/1.fa26cf23.chunk.css",
   "static/js/1.23988389.chunk.js": "/My-portfolio-/static/js/1.23988389.chunk.js",
   "static/js/1.23988389.chunk.js.map": "/My-portfolio-/static/js/1.23988389.chunk.js.map",
@@ -9,7 +9,7 @@
   "runtime~main.js.map": "/My-portfolio-/static/js/runtime~main.d8aced76.js.map",
   "static/media/pfm.png": "/My-portfolio-/static/media/pfm.8f915afc.png",
   "static/media/pfp.png": "/My-portfolio-/static/media/pfp.f2bece81.png",
-  "static/media/Bhagya Shree React Resume.pdf": "/My-portfolio-/static/media/Bhagya Shree React Resume.1cbf4a82.pdf",
+  "static/media/Bhagya Shree Resume.pdf": "/My-portfolio-/static/media/Bhagya Shree Resume.8bae066b.pdf",
   "static/media/bhagya Shree  Graphic Designer Resume -1.pdf": "/My-portfolio-/static/media/bhagya Shree  Graphic Designer Resume -1.c4dfc733.pdf",
   "static/media/floral1.png": "/My-portfolio-/static/media/floral1.859a234b.png",
   "static/media/shree-o.jpg": "/My-portfolio-/static/media/shree-o.90ec9cc4.jpg",
@@ -23,6 +23,6 @@
   "static/css/main.6315dec4.chunk.css.map": "/My-portfolio-/static/css/main.6315dec4.chunk.css.map",
   "static/css/1.fa26cf23.chunk.css.map": "/My-portfolio-/static/css/1.fa26cf23.chunk.css.map",
   "index.html": "/My-portfolio-/index.html",
-  "precache-manifest.fe686950a2276608262fed0b53a2eed3.js": "/My-portfolio-/precache-manifest.fe686950a2276608262fed0b53a2eed3.js",
+  "precache-manifest.06a61b2b5102a363e6c72c4850d0f23e.js": "/My-portfolio-/precache-manifest.06a61b2b5102a363e6c72c4850d0f23e.js",
   "service-worker.js": "/My-portfolio-/service-worker.js"
 }
