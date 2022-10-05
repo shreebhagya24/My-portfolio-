@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5ec95b015fa5244dcb46",
+    "revision": "be00301a46e0c4926b79",
     "url": "/My-portfolio-/static/css/main.6315dec4.chunk.css"
   },
   {
-    "revision": "5ec95b015fa5244dcb46",
-    "url": "/My-portfolio-/static/js/main.5ec95b01.chunk.js"
+    "revision": "be00301a46e0c4926b79",
+    "url": "/My-portfolio-/static/js/main.be00301a.chunk.js"
   },
   {
     "revision": "239883891402f718c9d3",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/My-portfolio-/static/media/pfp.f2bece81.png"
   },
   {
-    "revision": "8bae066b8ba3ca3bddb7de1aad3f18b9",
-    "url": "/My-portfolio-/static/media/Bhagya Shree Resume.8bae066b.pdf"
+    "revision": "18ffe45ef262265c000f15038b1c3a57",
+    "url": "/My-portfolio-/static/media/Shree Resume.18ffe45e.pdf"
   },
   {
     "revision": "c4dfc73377d8cf6bc631aac55a5bf720",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/My-portfolio-/static/media/logo1.6894ce86.jpg"
   },
   {
-    "revision": "3c723b8a2e1cb6b0ab8a141e9f423c94",
+    "revision": "3adf2bacca8ca9895f1d997ccd04f740",
     "url": "/My-portfolio-/index.html"
   }
 ];
